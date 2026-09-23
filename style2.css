@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f7fafc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  background: white;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  width: 400px;
+}
+
+h3 {
+  color: #e74c3c;
+  font-style: italic;
+  background-color: #fde8e8;
+  padding: 15px;
+  border-radius: 8px;
+  border-left: 5px solid #e74c3c;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
